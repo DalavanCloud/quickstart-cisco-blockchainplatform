@@ -38,7 +38,7 @@
                 },
                 {
                     "Label": {
-                        "default": "Cisco BlockChain configuration"
+                        "default": "Cisco Blockchain configuration"
                     },
                     "Parameters": [
                         "KeyPairName",
