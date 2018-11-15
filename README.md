@@ -10,7 +10,7 @@ You can use the AWS CloudFormation templates included with the Quick Start to de
 - Deploying Cisco Blockchain Platform into a new VPC
 - Deploying Cisco Blockchain Platform into an existing VPC
 
-![Quick Start architecture for Cisco Blockchain Platform on the AWS Cloud](https://d0.awsstatic.com/partner-network/QuickStart/datasheets/cisco-blockchain-architecture-on-aws.png)
+![Quick Start architecture for Cisco Blockchain Platform on the AWS Cloud](https://d0.awsstatic.com/partner-network/QuickStart/datasheets/cisco-blockchain-platform-architecture-on-aws.png)
 
 For architectural details, best practices, and step-by-step instructions, see the [deployment guide](https://s3.amazonaws.com/aws-quickstart/quickstart-cisco-blockchainplatform/doc/cisco-blockchain-platform-on-the-aws-cloud.pdf)
 
