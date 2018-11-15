@@ -1,4 +1,4 @@
-# quickstart-cisco-blockchain-platform
+# quickstart-cisco-blockchainplatform
 ## Cisco Blockchain Platform on the AWS Cloud
 
 The Cisco Blockchain Platform for AWS provides an end-to-end development environment on AWS and the tools needed to build enterprise-class blockchain solutions. This Quick Start provides a fast and easy way to deploy Cisco’s Blockchain network.
